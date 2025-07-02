@@ -1,4 +1,4 @@
-# <div align="center">🚀Hi There I am Vamshi</div>
+# <div align="center">👋 Hi there, I'm Vamshi!</div>
 
 <div align="center">
   
@@ -87,42 +87,56 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamshi144&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshi144&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div> />
 </div>
+
+
+
+## 🏗️ **Featured Projects**
+
+### 🤖 AI-Powered Web Applications
+- **Smart Task Manager** - AI-driven productivity app with intelligent scheduling
+- **Document Analyzer** - ML-based document processing and insights extraction
+- **Code Review Assistant** - Automated code quality analysis using NLP
+
+### 🌐 Full Stack Solutions
+- **E-Commerce Platform** - Complete MERN stack application with payment integration
+- **Real-time Chat System** - WebSocket-based messaging with React & Node.js
+- **Data Visualization Dashboard** - Interactive analytics platform with D3.js
+
+### 🔬 Research & Innovation
+- **Neural Network Optimization** - Custom algorithms for model performance enhancement
+- **Cloud Migration Tools** - Automated deployment solutions for enterprise applications
+
+
+
+## 🎓 **Certifications & Learning**
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi144&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" />
+
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Pursuing-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google](https://img.shields.io/badge/Google_AI_Essentials-Completed-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Azure_Fundamentals-In_Progress-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 </div>
 
-## 🏆 **GitHub Achievements**
+**📚 Recent Coursework:**
+- Deep Learning Specialization (Coursera)
+- Full Stack Web Development Bootcamp
+- Machine Learning Engineering Principles
+- System Design for Scalable Applications
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vamshi144&theme=github_dark&no-frame=true&row=1&column=6&margin-h=8&margin-w=8" />
-</div>
+## 💡 **Problem Solving & Algorithms**
 
-## 📈 **Contribution Graph**
+**🔧 Competitive Programming:**
+- **LeetCode:** 200+ problems solved (Medium-Hard focus)
+- **CodeChef:** 3⭐ rating in monthly contests
+- **HackerRank:** Gold badges in Python, SQL, and Problem Solving
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshi144&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" />
-</div>
-
-## 🎯 **Current Objectives**
-
-**📈 Learning Path:**
-- Deep Learning & Neural Networks
-- Large Language Models (LLMs)  
-- Cloud Architecture & Microservices
-- Advanced System Design
-
-**🤝 Open To:**
-- Collaborative AI/ML Projects
-- Open Source Contributions
-- Internship Opportunities  
-- Technical Mentorship
-
-**🔨 Currently Building:**
-- Scalable Web Applications
-- AI-Powered Solutions
-- Real-World Problem Solvers
+**📊 Algorithm Expertise:**
+- Dynamic Programming & Graph Algorithms
+- Data Structures & Time Complexity Optimization
+- System Design & Scalability Patterns
 
 ## 🌐 **Connect & Collaborate**
 
@@ -131,7 +145,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Vamshi144)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-krishnan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
 </div>
 
