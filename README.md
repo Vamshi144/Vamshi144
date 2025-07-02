@@ -92,52 +92,6 @@
 
 
 
-## 🏗️ **Featured Projects**
-
-### 🤖 AI-Powered Web Applications
-- **Smart Task Manager** - AI-driven productivity app with intelligent scheduling
-- **Document Analyzer** - ML-based document processing and insights extraction
-- **Code Review Assistant** - Automated code quality analysis using NLP
-
-### 🌐 Full Stack Solutions
-- **E-Commerce Platform** - Complete MERN stack application with payment integration
-- **Real-time Chat System** - WebSocket-based messaging with React & Node.js
-- **Data Visualization Dashboard** - Interactive analytics platform with D3.js
-
-### 🔬 Research & Innovation
-- **Neural Network Optimization** - Custom algorithms for model performance enhancement
-- **Cloud Migration Tools** - Automated deployment solutions for enterprise applications
-
-
-
-## 🎓 **Certifications & Learning**
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Pursuing-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google](https://img.shields.io/badge/Google_AI_Essentials-Completed-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Azure_Fundamentals-In_Progress-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-</div>
-
-**📚 Recent Coursework:**
-- Deep Learning Specialization (Coursera)
-- Full Stack Web Development Bootcamp
-- Machine Learning Engineering Principles
-- System Design for Scalable Applications
-
-## 💡 **Problem Solving & Algorithms**
-
-**🔧 Competitive Programming:**
-- **LeetCode:** 200+ problems solved (Medium-Hard focus)
-- **CodeChef:** 3⭐ rating in monthly contests
-- **HackerRank:** Gold badges in Python, SQL, and Problem Solving
-
-**📊 Algorithm Expertise:**
-- Dynamic Programming & Graph Algorithms
-- Data Structures & Time Complexity Optimization
-- System Design & Scalability Patterns
-
 ## 🌐 **Connect & Collaborate**
 
 <div align="center">
