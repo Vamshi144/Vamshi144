@@ -1,4 +1,4 @@
-# <div align="center">🚀 Vamshi Krishnan</div>
+# <div align="center">🚀 Vamshi</div>
 
 <div align="center">
   
